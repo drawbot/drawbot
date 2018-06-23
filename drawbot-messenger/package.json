@@ -1,0 +1,20 @@
+{
+  "name": "drawbot-messenger",
+  "version": "0.1.0",
+  "description": "Messenger adapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "@types/superagent": "^3.8.0",
+    "superagent": "^3.8.3",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "tslint": "^5.10.0"
+  }
+}
